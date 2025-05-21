@@ -1,5 +1,5 @@
 Avaliação individual de API.
-O banco de dados escolhido foi o H2 pois facilita a vsualização, já que foi solicitado a criação apenas de uma Tabela.
+O banco de dados escolhido foi o H2 pois facilita a visualização, já que foi solicitado a criação apenas de uma Tabela.
 
 Requesitos do projeto:
 Criar a classe Funcionario (id, nome) e Endereco (rua, cidade, estado, cep) e a relação entre as duas classes.
